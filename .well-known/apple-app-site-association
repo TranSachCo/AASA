@@ -1,0 +1,11 @@
+{
+  "applinks": {
+    "apps": [],
+    "details": [
+      {
+        "appID": "H5AB2XWWUU.com.sg.goods.sorting.match3d.game",
+        "paths": [ "/goodsblast/*" ]
+      }
+    ]
+  }
+}
